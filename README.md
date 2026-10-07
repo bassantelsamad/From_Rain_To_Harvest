@@ -1,5 +1,5 @@
 # From_Rain_To_Harvest
-Discraption : An interactive Power BI dashboard analyzing how rainfall, temperature, and pesticide use relate to crop yields across 101 countries and 10 crops (1990–2013), to support insights on food security and climate adaptation.
+Description: An interactive Power BI dashboard analyzing how rainfall, temperature, and pesticide use relate to crop yields across 101 countries and 10 crops (1990–2013), to support insights on food security and climate adaptation.
 
 Members' Names :
 1. Bassant Ehab Hassan Elsamad
