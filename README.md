@@ -4,12 +4,12 @@ Description: An interactive Power BI dashboard analyzing how rainfall, temperatu
 
 Members' Names :
 1. Bassant Ehab Hassan Elsamad
-2. 
-3. Amal Ebrahim Mostafa Mohammed
-4. 
-5. Habib gamal farouk hassan khalil alsharkawy
-6. 
-7. Arwa Saleh Admyen Shouab
+ 
+2. Amal Ebrahim Mostafa Mohammed
+ 
+3. Habib gamal farouk hassan khalil alsharkawy
+ 
+4. Arwa Saleh Admyen Shouab
 
 Members' Responsibilities :
 All team members: Data cleaning and preprocessing, with one final agreed version of the dataset.
